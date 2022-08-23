@@ -1,4 +1,5 @@
 # github-demo
 A simple repository to show the simple Git workflow
 
-Updateq from dev1
+Updated from dev1
+Update from dev2
